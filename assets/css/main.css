@@ -3220,7 +3220,7 @@ textarea {
   }
 }
 .about__area-four {
-  padding: 120px 0;
+  padding: 10px 0;
 }
 @media (max-width: 991.98px) {
   .about__area-four {
@@ -9976,7 +9976,7 @@ textarea {
   }
 }
 .team__area-four {
-  padding: 120px 0 90px;
+  padding: 10px 0 90px;
 }
 @media (max-width: 767.98px) {
   .team__area-four {
