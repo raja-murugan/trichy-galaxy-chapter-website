@@ -10199,7 +10199,7 @@ textarea {
 }
 .team-content span {
   display: block;
-  line-height: 1;
+  line-height: 1.5;
   color: var(--tg-theme-primary);
 }
 .team__content-two {
