@@ -1523,7 +1523,7 @@ textarea {
   }
 }
 .tgmenu__nav .logo img {
-  max-height: 34px;
+  max-height: 56px;
 }
 .tgmenu__navbar-wrap {
   display: -webkit-box;
@@ -12340,7 +12340,7 @@ blockquote p {
   width: 85px;
   height: 85px;
   object-fit: cover;
-  mix-blend-mode: luminosity;
+  /* mix-blend-mode: luminosity; */
   border-radius: 10px;
 }
 .footer-bottom {
